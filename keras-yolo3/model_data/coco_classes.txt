@@ -1,0 +1,10 @@
+hand
+lotion
+magic_square
+eraser
+tennis_ball
+pincers
+pen
+pen_box
+plug
+cup
